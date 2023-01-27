@@ -117,8 +117,6 @@ CONTAINER ID   IMAGE                          COMMAND                  CREATED  
 e0d5d170497f   phpmyadmin/phpmyadmin:latest   "/docker-entrypoint.…"   5 days ago   Up 26 hours   0.0.0.0:8092->80/tcp, :::8092->80/tcp                  current-date-phpmyadmin
 11c9ffaa066a   mysql:latest                   "docker-entrypoint.s…"   5 days ago   Up 26 hours   33060/tcp, 0.0.0.0:3361->3306/tcp, :::3361->3306/tcp   current-date-mysql
 a2249ffa45c2   wordpress:latest               "docker-entrypoint.s…"   5 days ago   Up 26 hours   9000/tcp                                               current-date-wordpress
-andrey@thinkbook-14-g2-itl:~/Documents/job/projects/solbeg/test-task/task_1/docker$ 
-
 ```
 Then you can check logs the command below:
 
